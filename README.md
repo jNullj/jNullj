@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jNullj
-- 👀 I’m interested
-- 🌱 I’m currently learning
-- 💞️ I might randomly send you a pull request.
+- 👀 I’m interested in anything software and hardware
+- 🌱 I’m currently refreshing my knowlage at VLSI
+- 💞️ I might randomly send pull request, mostly if i use the repo
 - 📫 How to reach me: pull request.
 
 <!---
