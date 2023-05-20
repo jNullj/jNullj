@@ -38,3 +38,27 @@ Not everything i do is on github.
 		</tr>
 	</tbody>
 </table>
+
+## Some contributions i made to others
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+		<th span="col">Pull requests 🏆</th>
+		<th span="col">Role 👷‍♂️</th>
+		<th span="col">Commits</th>
+	</thead>
+	<tbody>
+		<tr>
+			<th span="row"><a href="https://github.com/keepassxreboot/keepassxc">keepassxc</a></th>
+			<td>
+				🔀Merged: <a href="https://github.com/keepassxreboot/keepassxc/pull/8782">Fixed issue when saving files on windows with unicode in filename</a><br>
+				🔀Merged: <a href="https://github.com/keepassxreboot/keepassxc/pull/9101">Fixed minor ui bug in database settings</a><br>
+				🔀Merged: <a href="https://github.com/keepassxreboot/keepassxc/pull/9162">Fixed issue in automated gui testing in database settings</a><br>
+				🚧Open: <a href="https://github.com/keepassxreboot/keepassxc/pull/9100">New feature autosave delay</a><br>
+				🚧Open: <a href="https://github.com/keepassxreboot/keepassxc/pull/9176">New test - maximum history database settings</a>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/keepassxreboot/keepassxc/commits?author=jnullj">Commits by me</a></td>
+		</tr>
+	</tbody>
+</table>
