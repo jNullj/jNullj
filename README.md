@@ -68,5 +68,14 @@ Not everything i do is on github.
 			<td>Contributor</td>
 			<td><a href="https://github.com/RSS-Bridge/rss-bridge/commits?author=jnullj">Commits by me</a></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/multiSnow/mcomix3">mcomix3</a></th>
+			<td>
+				🔀Merged: <a href="https://github.com/multiSnow/mcomix3/pull/132">Fixed key binding issue</a><br>
+				🔀Merged: <a href="https://github.com/multiSnow/mcomix3/pull/136">Fixed RTL language layout</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/multiSnow/mcomix3/commits?author=jnullj">Commits by me</a></td>
+		</tr>
 	</tbody>
 </table>
