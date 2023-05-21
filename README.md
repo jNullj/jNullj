@@ -93,5 +93,13 @@ Not everything i do is on github.
 			<td>Contributor</td>
 			<td><a href="https://github.com/bentasker/Wake-On-Lan-Python/commits?author=jnullj">Commits by me</a></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/halverneus/org.kde.video">org.kde.video</a></th>
+			<td>
+				🔀Merged: <a href="https://github.com/halverneus/org.kde.video/pull/4">Add playrate (fps) control for better resource usage control</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/halverneus/org.kde.video/commits?author=jnullj">Commits by me</a></td>
+		</tr>
 	</tbody>
 </table>
