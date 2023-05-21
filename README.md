@@ -77,5 +77,15 @@ Not everything i do is on github.
 			<td>Contributor</td>
 			<td><a href="https://github.com/multiSnow/mcomix3/commits?author=jnullj">Commits by me</a></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/bentasker/Wake-On-Lan-Python">Wake-On-Lan-Python</a></th>
+			<td>
+				🔀Merged: <a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/2">Refactor from python 2 to python 3</a><br>
+				🔀Merged: <a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/3">Fix for env veriable using python 2 insted of python 3</a><br>
+				🔀Merged: <a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/10">Feature: automatic config creation</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/bentasker/Wake-On-Lan-Python/commits?author=jnullj">Commits by me</a></td>
+		</tr>
 	</tbody>
 </table>
