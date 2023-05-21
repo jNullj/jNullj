@@ -60,5 +60,13 @@ Not everything i do is on github.
 			<td>Contributor</td>
 			<td><a href="https://github.com/keepassxreboot/keepassxc/commits?author=jnullj">Commits by me</a></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/RSS-Bridge/rss-bridge">rss-bridge</a></th>
+			<td>
+				🔀Merged: <a href="https://github.com/RSS-Bridge/rss-bridge/pull/2417">Complete refactor of ExplosmBridge - rss aggregator of explosm comics</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/RSS-Bridge/rss-bridge/commits?author=jnullj">Commits by me</a></td>
+		</tr>
 	</tbody>
 </table>
