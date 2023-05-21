@@ -30,6 +30,12 @@ Not everything i do is on github.
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: fox-neat-wallpaper" src="https://img.shields.io/github/stars/jNullj/fox-neat-wallpaper" /></td>
 		</tr>
+		    <tr>
+			<th span="row"><a href="https://github.com/jNullj/tt-rss-status">tt-rss-status</a></th>
+			<td> 📰 TT-RSS unread items indicator browser extension 🔌 </td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tt-rss-status" src="https://img.shields.io/github/stars/jNullj/tt-rss-status" /></td>
+		</tr>
     <tr>
 			<th span="row"><a href="https://github.com/jNullj/manga-chapter-tracker-script">manga-chapter-tracker-script</a></th>
 			<td> 📰 RSS Aggregator for chapters translated by user followed groups on mangadex 🗾 </td>
