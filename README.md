@@ -67,6 +67,14 @@ Not everything i do is on github.
 			<td><a href="https://github.com/keepassxreboot/keepassxc/commits?author=jnullj">Commits by me</a></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/badges/shields">shields</a></th>
+			<td>
+				🚧Open: <a href="https://github.com/badges/shields/pull/9196">Add total commits to [GitHubCommitActivity]</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/badges/shields/commits?author=jnullj">Commits by me</a></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/RSS-Bridge/rss-bridge">rss-bridge</a></th>
 			<td>
 				🔀Merged: <a href="https://github.com/RSS-Bridge/rss-bridge/pull/2417">Complete refactor of ExplosmBridge - rss aggregator of explosm comics</a><br>
