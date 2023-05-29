@@ -69,7 +69,7 @@ Not everything i do is on github.
 		<tr>
 			<th span="row"><a href="https://github.com/badges/shields">shields</a></th>
 			<td>
-				🚧Open: <a href="https://github.com/badges/shields/pull/9196">Add total commits to [GitHubCommitActivity]</a><br>
+				🔀Merged: <a href="https://github.com/badges/shields/pull/9196">Add total commits to [GitHubCommitActivity]</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj">Commits by me</a></td>
