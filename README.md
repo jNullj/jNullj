@@ -71,7 +71,7 @@ Not everything i do is on github.
 			<td>
 				🔀Merged: <a href="https://github.com/badges/shields/pull/9196">Add total commits to [GitHubCommitActivity]</a><br>
 				🚧Open: <a href="https://github.com/badges/shields/pull/9251">Add author filter to [GitHubCommitActivity]</a><br>
-				🚧Open: <a href="https://github.com/badges/shields/pull/9258">Fix: [GithubCommitActivity] invalid branch error handling</a><br>
+				🔀Merged: <a href="https://github.com/badges/shields/pull/9258">Fix: [GithubCommitActivity] invalid branch error handling</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj">Commits by me</a></td>
