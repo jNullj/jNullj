@@ -64,7 +64,7 @@ Not everything i do is on github.
 				🚧Open: <a href="https://github.com/keepassxreboot/keepassxc/pull/9176">New test - maximum history database settings</a>
 			</td>
 			<td>Contributor</td>
-			<td><a href="https://github.com/keepassxreboot/keepassxc/commits?author=jnullj">Commits by me</a></td>
+			<td><a href="https://github.com/keepassxreboot/keepassxc/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/keepassxreboot/keepassxc?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/badges/shields">shields</a></th>
@@ -74,7 +74,7 @@ Not everything i do is on github.
 				🔀Merged: <a href="https://github.com/badges/shields/pull/9258">Fix: [GithubCommitActivity] invalid branch error handling</a><br>
 			</td>
 			<td>Contributor</td>
-			<td><a href="https://github.com/badges/shields/commits?author=jnullj">Commits by me</a></td>
+			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/RSS-Bridge/rss-bridge">rss-bridge</a></th>
@@ -82,7 +82,7 @@ Not everything i do is on github.
 				🔀Merged: <a href="https://github.com/RSS-Bridge/rss-bridge/pull/2417">Complete refactor of ExplosmBridge - rss aggregator of explosm comics</a><br>
 			</td>
 			<td>Contributor</td>
-			<td><a href="https://github.com/RSS-Bridge/rss-bridge/commits?author=jnullj">Commits by me</a></td>
+			<td><a href="https://github.com/RSS-Bridge/rss-bridge/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/RSS-Bridge/rss-bridge?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/multiSnow/mcomix3">mcomix3</a></th>
@@ -91,7 +91,7 @@ Not everything i do is on github.
 				🔀Merged: <a href="https://github.com/multiSnow/mcomix3/pull/136">Fixed RTL language layout</a><br>
 			</td>
 			<td>Contributor</td>
-			<td><a href="https://github.com/multiSnow/mcomix3/commits?author=jnullj">Commits by me</a></td>
+			<td><a href="https://github.com/multiSnow/mcomix3/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/multiSnow/mcomix3?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/bentasker/Wake-On-Lan-Python">Wake-On-Lan-Python</a></th>
@@ -101,7 +101,7 @@ Not everything i do is on github.
 				🔀Merged: <a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/10">Feature: automatic config creation</a><br>
 			</td>
 			<td>Contributor</td>
-			<td><a href="https://github.com/bentasker/Wake-On-Lan-Python/commits?author=jnullj">Commits by me</a></td>
+			<td><a href="https://github.com/bentasker/Wake-On-Lan-Python/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/bentasker/Wake-On-Lan-Python?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/halverneus/org.kde.video">org.kde.video</a></th>
@@ -109,7 +109,7 @@ Not everything i do is on github.
 				🔀Merged: <a href="https://github.com/halverneus/org.kde.video/pull/4">Add playrate (fps) control for better resource usage control</a><br>
 			</td>
 			<td>Contributor</td>
-			<td><a href="https://github.com/halverneus/org.kde.video/commits?author=jnullj">Commits by me</a></td>
+			<td><a href="https://github.com/halverneus/org.kde.video/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/halverneus/org.kde.video?authorFilter=jnullj" /></a></td>
 		</tr>
 	</tbody>
 </table>
