@@ -30,6 +30,12 @@ Not everything i do is on github.
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: fox-neat-wallpaper" src="https://img.shields.io/github/stars/jNullj/fox-neat-wallpaper" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/jNullj/light-on-tray">light-on-tray</a></th>
+			<td> 💡 Utility for control over smart lightbulbs conveniently from system tray 🎛️ </td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: light-on-tray" src="https://img.shields.io/github/stars/jNullj/light-on-tray" /></td>
+		</tr>
 		    <tr>
 			<th span="row"><a href="https://github.com/jNullj/tt-rss-status">tt-rss-status</a></th>
 			<td> 📰 TT-RSS unread items indicator browser extension 🔌 </td>
