@@ -78,6 +78,7 @@ Not everything i do is on github.
 				🔀Merged: <a href="https://github.com/badges/shields/pull/9196">Add total commits to [GitHubCommitActivity]</a><br>
 				🔀Merged: <a href="https://github.com/badges/shields/pull/9251">Add author filter to [GitHubCommitActivity]</a><br>
 				🔀Merged: <a href="https://github.com/badges/shields/pull/9258">Fix: [GithubCommitActivity] invalid branch error handling</a><br>
+				🚧Open: <a href="https://github.com/badges/shields/pull/9340">Add [GitHubDiscussionsSearch] and [GitHubRepoDiscussionsSearch] service</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
