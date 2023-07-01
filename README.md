@@ -63,11 +63,16 @@ Not everything i do is on github.
 		<tr>
 			<th span="row"><a href="https://github.com/keepassxreboot/keepassxc">keepassxc</a></th>
 			<td>
-				🔀Merged: <a href="https://github.com/keepassxreboot/keepassxc/pull/8782">Fixed issue when saving files on windows with unicode in filename</a><br>
-				🔀Merged: <a href="https://github.com/keepassxreboot/keepassxc/pull/9101">Fixed minor ui bug in database settings</a><br>
-				🔀Merged: <a href="https://github.com/keepassxreboot/keepassxc/pull/9162">Fixed issue in automated gui testing in database settings</a><br>
-				🚧Open: <a href="https://github.com/keepassxreboot/keepassxc/pull/9100">New feature autosave delay</a><br>
-				🚧Open: <a href="https://github.com/keepassxreboot/keepassxc/pull/9176">New test - maximum history database settings</a>
+				<img src="https://img.shields.io/github/pulls/detail/state/keepassxreboot/keepassxc/8782">
+				<a href="https://github.com/keepassxreboot/keepassxc/pull/8782">Fixed issue when saving files on windows with unicode in filename</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/keepassxreboot/keepassxc/9101">
+				<a href="https://github.com/keepassxreboot/keepassxc/pull/9101">Fixed minor ui bug in database settings</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/keepassxreboot/keepassxc/9162">
+				<a href="https://github.com/keepassxreboot/keepassxc/pull/9162">Fixed issue in automated gui testing in database settings</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/keepassxreboot/keepassxc/9100">
+				<a href="https://github.com/keepassxreboot/keepassxc/pull/9100">New feature autosave delay</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/keepassxreboot/keepassxc/9176">
+				<a href="https://github.com/keepassxreboot/keepassxc/pull/9176">New test - maximum history database settings</a>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/keepassxreboot/keepassxc/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/keepassxreboot/keepassxc?authorFilter=jnullj" /></a></td>
@@ -75,10 +80,14 @@ Not everything i do is on github.
 		<tr>
 			<th span="row"><a href="https://github.com/badges/shields">shields</a></th>
 			<td>
-				🔀Merged: <a href="https://github.com/badges/shields/pull/9196">Add total commits to [GitHubCommitActivity]</a><br>
-				🔀Merged: <a href="https://github.com/badges/shields/pull/9251">Add author filter to [GitHubCommitActivity]</a><br>
-				🔀Merged: <a href="https://github.com/badges/shields/pull/9258">Fix: [GithubCommitActivity] invalid branch error handling</a><br>
-				🚧Open: <a href="https://github.com/badges/shields/pull/9340">Add [GitHubDiscussionsSearch] and [GitHubRepoDiscussionsSearch] service</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9196">
+				<a href="https://github.com/badges/shields/pull/9196">Add total commits to [GitHubCommitActivity]</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9251">
+				<a href="https://github.com/badges/shields/pull/9251">Add author filter to [GitHubCommitActivity]</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9258">
+				<a href="https://github.com/badges/shields/pull/9258">Fix: [GithubCommitActivity] invalid branch error handling</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9340">
+				<a href="https://github.com/badges/shields/pull/9340">Add [GitHubDiscussionsSearch] and [GitHubRepoDiscussionsSearch] service</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
@@ -86,7 +95,8 @@ Not everything i do is on github.
 		<tr>
 			<th span="row"><a href="https://github.com/RSS-Bridge/rss-bridge">rss-bridge</a></th>
 			<td>
-				🔀Merged: <a href="https://github.com/RSS-Bridge/rss-bridge/pull/2417">Complete refactor of ExplosmBridge - rss aggregator of explosm comics</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/RSS-Bridge/rss-bridge/2417">
+				<a href="https://github.com/RSS-Bridge/rss-bridge/pull/2417">Complete refactor of ExplosmBridge - rss aggregator of explosm comics</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/RSS-Bridge/rss-bridge/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/RSS-Bridge/rss-bridge?authorFilter=jnullj" /></a></td>
@@ -94,8 +104,10 @@ Not everything i do is on github.
 		<tr>
 			<th span="row"><a href="https://github.com/multiSnow/mcomix3">mcomix3</a></th>
 			<td>
-				🔀Merged: <a href="https://github.com/multiSnow/mcomix3/pull/132">Fixed key binding issue</a><br>
-				🔀Merged: <a href="https://github.com/multiSnow/mcomix3/pull/136">Fixed RTL language layout</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/multiSnow/mcomix3/132">
+				<a href="https://github.com/multiSnow/mcomix3/pull/132">Fixed key binding issue</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/multiSnow/mcomix3/136">
+				<a href="https://github.com/multiSnow/mcomix3/pull/136">Fixed RTL language layout</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/multiSnow/mcomix3/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/multiSnow/mcomix3?authorFilter=jnullj" /></a></td>
@@ -103,9 +115,12 @@ Not everything i do is on github.
 		<tr>
 			<th span="row"><a href="https://github.com/bentasker/Wake-On-Lan-Python">Wake-On-Lan-Python</a></th>
 			<td>
-				🔀Merged: <a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/2">Refactor from python 2 to python 3</a><br>
-				🔀Merged: <a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/3">Fix for env veriable using python 2 insted of python 3</a><br>
-				🔀Merged: <a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/10">Feature: automatic config creation</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/bentasker/Wake-On-Lan-Python/2">
+				<a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/2">Refactor from python 2 to python 3</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/bentasker/Wake-On-Lan-Python/3">
+				<a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/3">Fix for env veriable using python 2 insted of python 3</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/bentasker/Wake-On-Lan-Python/10">
+				<a href="https://github.com/bentasker/Wake-On-Lan-Python/pull/10">Feature: automatic config creation</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/bentasker/Wake-On-Lan-Python/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/bentasker/Wake-On-Lan-Python?authorFilter=jnullj" /></a></td>
@@ -113,7 +128,8 @@ Not everything i do is on github.
 		<tr>
 			<th span="row"><a href="https://github.com/halverneus/org.kde.video">org.kde.video</a></th>
 			<td>
-				🔀Merged: <a href="https://github.com/halverneus/org.kde.video/pull/4">Add playrate (fps) control for better resource usage control</a><br>
+				<img src="https://img.shields.io/github/pulls/detail/state/halverneus/org.kde.video/4">
+				<a href="https://github.com/halverneus/org.kde.video/pull/4">Add playrate (fps) control for better resource usage control</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/halverneus/org.kde.video/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/halverneus/org.kde.video?authorFilter=jnullj" /></a></td>
