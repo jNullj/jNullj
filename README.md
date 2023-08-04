@@ -110,6 +110,10 @@ Not everything i do is on github.
 					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9386">
 					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9386?label=">
 				</a><br>
+				<a href="https://github.com/badges/shields/pull/9438">
+					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9438">
+					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9438?label=">
+				</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
