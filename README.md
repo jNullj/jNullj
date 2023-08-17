@@ -180,3 +180,6 @@ Not everything i do is on github.
 		</tr>
 	</tbody>
 </table>
+
+## hackathons
+- BIU/Engineering Faculty - Smart Cities - https://github.com/jNullj/BIUHACK2022
