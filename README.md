@@ -83,6 +83,10 @@ Not everything i do is on github.
 					<img src="https://img.shields.io/github/pulls/detail/state/keepassxreboot/keepassxc/9176">
 					<img src="https://img.shields.io/github/pulls/detail/title/keepassxreboot/keepassxc/9176?label=">
 				</a><br>
+				<a href="https://github.com/keepassxreboot/keepassxc/pull/9755">
+					<img src="https://img.shields.io/github/pulls/detail/state/keepassxreboot/keepassxc/9755">
+					<img src="https://img.shields.io/github/pulls/detail/title/keepassxreboot/keepassxc/9755?label=">
+				</a><br>
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/keepassxreboot/keepassxc/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/keepassxreboot/keepassxc?authorFilter=jnullj" /></a></td>
