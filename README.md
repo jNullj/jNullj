@@ -135,6 +135,17 @@ Not everything i do is on github.
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/qt/qtbase">qt/qtbase</a></th>
+			<td>
+				<a href="https://codereview.qt-project.org/c/qt/qtbase/+/499609">
+					<img src="https://img.shields.io/gerrit/499609?baseUrl=https%3A%2F%2Fcodereview.qt-project.org">
+					<img src="https://img.shields.io/badge/Add%20StateLocation%20%26%20GenericStateLocation%20to%20StandardLocation-blue">
+				</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/qt/qtbase/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/qt/qtbase?authorFilter=jnullj" /></a></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/RSS-Bridge/rss-bridge">rss-bridge</a></th>
 			<td>
 				<a href="https://github.com/RSS-Bridge/rss-bridge/pull/2417">
