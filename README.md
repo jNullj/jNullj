@@ -157,6 +157,17 @@ Not everything i do is on github.
 			<td><a href="https://github.com/RSS-Bridge/rss-bridge/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/RSS-Bridge/rss-bridge?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/cloud-annotations/docusaurus-openapi">docusaurus-openapi</a></th>
+			<td>
+				<a href="https://github.com/cloud-annotations/docusaurus-openapi/pull/261">
+					<img src="https://img.shields.io/github/pulls/detail/state/cloud-annotations/docusaurus-openapi/261">
+					<img src="https://img.shields.io/github/pulls/detail/title/cloud-annotations/docusaurus-openapi/261?label=">
+				</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/cloud-annotations/docusaurus-openapi/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/cloud-annotations/docusaurus-openapi?authorFilter=jnullj" /></a></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/multiSnow/mcomix3">mcomix3</a></th>
 			<td>
 				<a href="https://github.com/multiSnow/mcomix3/pull/132">
