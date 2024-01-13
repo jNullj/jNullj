@@ -227,6 +227,17 @@ Not everything i do is on github.
 			<td>Contributor</td>
 			<td><a href="https://github.com/halverneus/org.kde.video/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/halverneus/org.kde.video?authorFilter=jnullj" /></a></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/song940/node-ssdp">ssdp2</a></th>
+			<td>
+				<a href="https://github.com/song940/node-ssdp/pull/2">
+					<img src="https://img.shields.io/github/pulls/detail/state/song940/node-ssdp/2">
+					<img src="https://img.shields.io/github/pulls/detail/title/song940/node-ssdp/2?label=">
+				</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/halverneus/org.kde.video/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/halverneus/org.kde.video?authorFilter=jnullj" /></a></td>
+		</tr>
 	</tbody>
 </table>
 
