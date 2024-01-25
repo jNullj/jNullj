@@ -236,7 +236,7 @@ Not everything i do is on github.
 				</a><br>
 			</td>
 			<td>Contributor</td>
-			<td><a href="https://github.com/halverneus/org.kde.video/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/halverneus/org.kde.video?authorFilter=jnullj" /></a></td>
+			<td><a href="https://github.com/song940/node-ssdp/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/song940/node-ssdp?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/song940/node-yeelight">ssdp2</a></th>
