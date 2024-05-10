@@ -159,7 +159,7 @@ Not everything i do is on github.
 				</a><br>
 			</td>
 			<td>Contributor</td>
-			<td><a href="https://github.com/qt/qtbase/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/qt/qtbase?authorFilter=jnullj" /></a></td>
+			<td><a href="https://github.com/util-linux/util-linux/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/util-linux/util-linux?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/qt/qtbase">qt/qtbase</a></th>
