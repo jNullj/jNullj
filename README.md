@@ -151,6 +151,17 @@ Not everything i do is on github.
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/util-linux/util-linux">util-linux</a></th>
+			<td>
+				<a href="https://github.com/util-linux/util-linux/pull/3015">
+					<img src="https://img.shields.io/github/pulls/detail/state/util-linux/util-linux/3015">
+					<img src="https://img.shields.io/github/pulls/detail/title/util-linux/util-linux/3015?label=">
+				</a><br>
+			</td>
+			<td>Contributor</td>
+			<td><a href="https://github.com/qt/qtbase/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/qt/qtbase?authorFilter=jnullj" /></a></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/qt/qtbase">qt/qtbase</a></th>
 			<td>
 				<a href="https://codereview.qt-project.org/c/qt/qtbase/+/499609">
