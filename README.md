@@ -31,6 +31,12 @@ Not everything i do is on github.
 			<td><img alt="Stars: fox-neat-wallpaper" src="https://img.shields.io/github/stars/jNullj/fox-neat-wallpaper" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/jNullj/fox-timetail">fox-timetail</a></th>
+			<td> Track work hours </td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: fox-timetail" src="https://img.shields.io/github/stars/jNullj/fox-timetail" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/jNullj/light-on-tray">light-on-tray</a></th>
 			<td> 💡 Utility for control over smart lightbulbs conveniently from system tray 🎛️ </td>
 			<td>Creator & maintainer</td>
