@@ -32,7 +32,7 @@ Not everything i do is on github.
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/jNullj/fox-timetail">fox-timetail</a></th>
-			<td> Track work hours </td>
+			<td> 🕒 Fox-TimeTail is a PWA designed to simplify tracking work hours. It features a user-friendly interface for clocking in and out, displaying daily totals, and viewing work history 🦊 </td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: fox-timetail" src="https://img.shields.io/github/stars/jNullj/fox-timetail" /></td>
 		</tr>
