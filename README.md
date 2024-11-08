@@ -100,70 +100,10 @@ Not everything i do is on github.
 		<tr>
 			<th span="row"><a href="https://github.com/badges/shields">shields</a></th>
 			<td>
-				<a href="https://github.com/badges/shields/pull/9196">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9196">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9196?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9251">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9251">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9251?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9258">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9258">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9258?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9340">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9340">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9340?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9386">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9386">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9386?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9438">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9438">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9438?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9467">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9467">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9467?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9516">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9516">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9516?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9518">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9518">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9518?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9681">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9681">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9681?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9983">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9983">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9983?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/9976">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9976">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/9976?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/10092">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/10092">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/10092?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/10597">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/10597">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/10597?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/10619">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/10619">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/10619?label=">
-				</a><br>
-				<a href="https://github.com/badges/shields/pull/10618">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/10618">
-					<img src="https://img.shields.io/github/pulls/detail/title/badges/shields/10618?label=">
-				</a><br>
+				<img alt="open pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Aopen%20is%3Apr%20author%3Ajnullj%20&label=open%20pr%20by%20jnullj&color=green">
+				<img alt="merged pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Apr%20author%3Ajnullj%20is%3Amerged&label=merged%20pr%20by%20jnullj&color=purple">
+				<img alt="reviewed pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Apr%20reviewed-by%3Ajnullj%20-author%3Ajnullj&label=pr%20reviewed%20by%20jnullj">
+				<img alt="involvment by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20involves%3Ajnullj&label=involvment%20by%20jnullj">
 			</td>
 			<td>Collaborator</td>
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
