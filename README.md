@@ -105,7 +105,7 @@ Not everything i do is on github.
 				<img alt="reviewed pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Apr%20reviewed-by%3Ajnullj%20-author%3Ajnullj&label=pr%20reviewed%20by%20jnullj">
 				<img alt="involvment by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20involves%3Ajnullj&label=involvment%20by%20jnullj">
 			</td>
-			<td>Collaborator</td>
+			<td>Maintainer</td>
 			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
