@@ -220,7 +220,7 @@ Not everything i do is on github.
 			<td><a href="https://github.com/song940/node-ssdp/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/song940/node-ssdp?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/song940/node-yeelight">ssdp2</a></th>
+			<th span="row"><a href="https://github.com/song940/node-yeelight">yeelight2</a></th>
 			<td>
 				<a href="https://github.com/song940/node-yeelight/pull/20">
 					<img src="https://img.shields.io/github/pulls/detail/state/song940/node-yeelight/20">
