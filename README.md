@@ -67,6 +67,17 @@ Not everything i do is on github.
 	</thead>
 	<tbody>
 		<tr>
+			<th span="row"><a href="https://github.com/badges/shields">shields</a></th>
+			<td>
+				<img alt="open pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Aopen%20is%3Apr%20author%3Ajnullj%20&label=open%20pr%20by%20jnullj&color=green">
+				<img alt="merged pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Apr%20author%3Ajnullj%20is%3Amerged&label=merged%20pr%20by%20jnullj&color=purple">
+				<img alt="reviewed pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Apr%20reviewed-by%3Ajnullj%20-author%3Ajnullj&label=pr%20reviewed%20by%20jnullj">
+				<img alt="involvment by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20involves%3Ajnullj&label=involvment%20by%20jnullj">
+			</td>
+			<td>Maintainer</td>
+			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/keepassxreboot/keepassxc">keepassxc</a></th>
 			<td>
 				<a href="https://github.com/keepassxreboot/keepassxc/pull/8782">
@@ -96,17 +107,6 @@ Not everything i do is on github.
 			</td>
 			<td>Contributor</td>
 			<td><a href="https://github.com/keepassxreboot/keepassxc/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/keepassxreboot/keepassxc?authorFilter=jnullj" /></a></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/badges/shields">shields</a></th>
-			<td>
-				<img alt="open pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Aopen%20is%3Apr%20author%3Ajnullj%20&label=open%20pr%20by%20jnullj&color=green">
-				<img alt="merged pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Apr%20author%3Ajnullj%20is%3Amerged&label=merged%20pr%20by%20jnullj&color=purple">
-				<img alt="reviewed pr by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20is%3Apr%20reviewed-by%3Ajnullj%20-author%3Ajnullj&label=pr%20reviewed%20by%20jnullj">
-				<img alt="involvment by jnullj" src="https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields%20involves%3Ajnullj&label=involvment%20by%20jnullj">
-			</td>
-			<td>Maintainer</td>
-			<td><a href="https://github.com/badges/shields/commits?author=jnullj"><img alt="Commits by jnullj" src="https://img.shields.io/github/commit-activity/t/badges/shields?authorFilter=jnullj" /></a></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/util-linux/util-linux">util-linux</a></th>
