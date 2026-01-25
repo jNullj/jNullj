@@ -74,11 +74,12 @@ while IFS=$'\u0001' read -r name url role pr_html; do
   if [[ -n "$pr_html" ]]; then
     pr_cell="$pr_html"
   else
-    # PR badges (open / merged / involvement)
+    # PR badges (open / merged / reviewed / involvement)
     open_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Aopen%20is%3Apr%20author%3Ajnullj&label=open%20pr%20by%20jnullj&color=green"
     merged_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Apr%20author%3Ajnullj%20is%3Amerged&label=merged%20pr%20by%20jnullj&color=purple"
+    reviewed_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Apr%20reviewed-by%3Ajnullj%20-author%3Ajnullj&label=pr%20reviewed%20by%20jnullj"
     involvement="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20involves%3Ajnullj&label=involvment%20by%20jnullj"
-    pr_cell="<img alt=\"open pr by jnullj\" src=\"${open_pr}\" /><img alt=\"merged pr by jnullj\" src=\"${merged_pr}\" /><img alt=\"involvment by jnullj\" src=\"${involvement}\" />"
+    pr_cell="<img alt=\"open pr by jnullj\" src=\"${open_pr}\" /><img alt=\"merged pr by jnullj\" src=\"${merged_pr}\" /><img alt=\"pr reviewed by jnullj\" src=\"${reviewed_pr}\" /><img alt=\"involvment by jnullj\" src=\"${involvement}\" />"
   fi
 
   cat >> "$OUT_FILE" <<ROW
