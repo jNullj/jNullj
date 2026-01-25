@@ -1,0 +1,60 @@
+{
+  "personal": [
+    {
+      "name": "Pikabot",
+      "url": "https://github.com/jNullj/Pikabot",
+      "description": ":robot: A simple discord bot we love on my discord server 🐭⚡",
+      "role": "Creator & maintainer"
+    },
+    {
+      "name": "finnish_summer_bot",
+      "url": "https://github.com/jNullj/finnish_summer_bot",
+      "description": "🤖 A simple discord bot inspired by my summer car 🚙",
+      "role": "Creator & maintainer"
+    },
+    {
+      "name": "fox-neat-wallpaper",
+      "url": "https://github.com/jNullj/fox-neat-wallpaper",
+      "description": "🖼️ Generate wallpaper based on installed packages and outdated status for Archlinux 🐧",
+      "role": "Creator & maintainer"
+    },
+    {
+      "name": "fox-timetail",
+      "url": "https://github.com/jNullj/fox-timetail",
+      "description": "🕒 Fox-TimeTail is a PWA designed to simplify tracking work hours.",
+      "role": "Creator & maintainer"
+    },
+    {
+      "name": "light-on-tray",
+      "url": "https://github.com/jNullj/light-on-tray",
+      "description": "💡 Utility for control over smart lightbulbs conveniently from system tray 🎛️",
+      "role": "Creator & maintainer"
+    },
+    {
+      "name": "tt-rss-status",
+      "url": "https://github.com/jNullj/tt-rss-status",
+      "description": "📰 TT-RSS unread items indicator browser extension 🔌",
+      "role": "Creator & maintainer"
+    },
+    {
+      "name": "manga-chapter-tracker-script",
+      "url": "https://github.com/jNullj/manga-chapter-tracker-script",
+      "description": "📰 RSS Aggregator for chapters translated by user followed groups on mangadex 🗾",
+      "role": "Creator & maintainer"
+    }
+  ],
+  "contributions": [
+    { "name": "shields", "url": "https://github.com/badges/shields", "role": "Maintainer" },
+    { "name": "keepassxc", "url": "https://github.com/keepassxreboot/keepassxc", "role": "Contributor" },
+    { "name": "util-linux", "url": "https://github.com/util-linux/util-linux", "role": "Contributor" },
+    { "name": "qt/qtbase", "url": "https://github.com/qt/qtbase", "role": "Contributor" },
+    { "name": "qBittorrent", "url": "https://github.com/qbittorrent/qBittorrent", "role": "Contributor" },
+    { "name": "rss-bridge", "url": "https://github.com/RSS-Bridge/rss-bridge", "role": "Contributor" },
+    { "name": "docusaurus-openapi", "url": "https://github.com/cloud-annotations/docusaurus-openapi", "role": "Contributor" },
+    { "name": "mcomix3", "url": "https://github.com/multiSnow/mcomix3", "role": "Contributor" },
+    { "name": "Wake-On-Lan-Python", "url": "https://github.com/bentasker/Wake-On-Lan-Python", "role": "Contributor" },
+    { "name": "org.kde.video", "url": "https://github.com/halverneus/org.kde.video", "role": "Contributor" },
+    { "name": "node-ssdp", "url": "https://github.com/song940/node-ssdp", "role": "Contributor" },
+    { "name": "node-yeelight", "url": "https://github.com/song940/node-yeelight", "role": "Contributor" }
+  ]
+}
