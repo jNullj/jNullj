@@ -66,21 +66,26 @@ cat >> "$OUT_FILE" <<README
 README
 
 # contributions
-jq -r '.contributions[] | "\(.name)\u0001\(.url)\u0001\(.role)"' "$DATA_FILE" | \
-while IFS=$'\u0001' read -r name url role; do
+jq -r '.contributions[] | "\(.name)\u0001\(.url)\u0001\(.role)\u0001\(.pr_html // \"\")"' "$DATA_FILE" | \
+while IFS=$'\u0001' read -r name url role pr_html; do
   repo_path=$(echo "$url" | sed -E 's#https?://github.com/##' | sed 's#/$##')
-  # PR badges (open / merged / involvement)
-  open_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Aopen%20is%3Apr%20author%3Ajnullj&label=open%20pr%20by%20jnullj&color=green"
-  merged_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Apr%20author%3Ajnullj%20is%3Amerged&label=merged%20pr%20by%20jnullj&color=purple"
-  involvement="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20involves%3Ajnullj&label=involvment%20by%20jnullj"
   commits_badge="https://img.shields.io/github/commit-activity/t/${repo_path}?authorFilter=jnullj"
+
+  if [[ -n "$pr_html" ]]; then
+    pr_cell="$pr_html"
+  else
+    # PR badges (open / merged / involvement)
+    open_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Aopen%20is%3Apr%20author%3Ajnullj&label=open%20pr%20by%20jnullj&color=green"
+    merged_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Apr%20author%3Ajnullj%20is%3Amerged&label=merged%20pr%20by%20jnullj&color=purple"
+    involvement="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20involves%3Ajnullj&label=involvment%20by%20jnullj"
+    pr_cell="<img alt=\"open pr by jnullj\" src=\"${open_pr}\" /><img alt=\"merged pr by jnullj\" src=\"${merged_pr}\" /><img alt=\"involvment by jnullj\" src=\"${involvement}\" />"
+  fi
+
   cat >> "$OUT_FILE" <<ROW
 		<tr>
 			<th span="row"><a href="$url">$name</a></th>
 			<td>
-				<img alt="open pr by jnullj" src="$open_pr" />
-				<img alt="merged pr by jnullj" src="$merged_pr" />
-				<img alt="involvment by jnullj" src="$involvement" />
+				$pr_cell
 			</td>
 			<td>$role</td>
 			<td><img alt="Commits by jnullj" src="$commits_badge" /></td>

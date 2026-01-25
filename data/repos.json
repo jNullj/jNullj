@@ -47,7 +47,7 @@
     { "name": "shields", "url": "https://github.com/badges/shields", "role": "Maintainer" },
     { "name": "keepassxc", "url": "https://github.com/keepassxreboot/keepassxc", "role": "Contributor" },
     { "name": "util-linux", "url": "https://github.com/util-linux/util-linux", "role": "Contributor" },
-    { "name": "qt/qtbase", "url": "https://github.com/qt/qtbase", "role": "Contributor" },
+    { "name": "qt/qtbase", "url": "https://github.com/qt/qtbase", "role": "Contributor", "pr_html": "<a href=\"https://codereview.qt-project.org/c/qt/qtbase/+/499609\"><img src=\"https://img.shields.io/gerrit/499609?baseUrl=https%3A%2F%2Fcodereview.qt-project.org\" /><img src=\"https://img.shields.io/badge/Add%20StateLocation%20%26%20GenericStateLocation%20to%20StandardLocation-blue\" /></a>" },
     { "name": "qBittorrent", "url": "https://github.com/qbittorrent/qBittorrent", "role": "Contributor" },
     { "name": "rss-bridge", "url": "https://github.com/RSS-Bridge/rss-bridge", "role": "Contributor" },
     { "name": "docusaurus-openapi", "url": "https://github.com/cloud-annotations/docusaurus-openapi", "role": "Contributor" },
