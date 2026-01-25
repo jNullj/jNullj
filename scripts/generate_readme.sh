@@ -66,7 +66,7 @@ cat >> "$OUT_FILE" <<README
 README
 
 # contributions
-jq -r '.contributions[] | "\(.name)\u0001\(.url)\u0001\(.role)\u0001\(.pr_html // \"\")"' "$DATA_FILE" | \
+jq -r '.contributions[] | "\(.name)\u0001\(.url)\u0001\(.role)\u0001\(.pr_html // "")"' "$DATA_FILE" | \
 while IFS=$'\u0001' read -r name url role pr_html; do
   repo_path=$(echo "$url" | sed -E 's#https?://github.com/##' | sed 's#/$##')
   commits_badge="https://img.shields.io/github/commit-activity/t/${repo_path}?authorFilter=jnullj"
