@@ -74,11 +74,33 @@ while IFS=$'\u0001' read -r name url role pr_html; do
   if [[ -n "$pr_html" ]]; then
     pr_cell="$pr_html"
   else
-    # PR badges (open / merged / reviewed / involvement)
-    open_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Aopen%20is%3Apr%20author%3Ajnullj&label=open%20pr%20by%20jnullj&color=green"
-    merged_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Apr%20author%3Ajnullj%20is%3Amerged&label=merged%20pr%20by%20jnullj&color=purple"
-    reviewed_pr="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20is%3Apr%20reviewed-by%3Ajnullj%20-author%3Ajnullj&label=pr%20reviewed%20by%20jnullj"
-    involvement="https://img.shields.io/github/issues-search?query=repo%3A${repo_path}%20involves%3Ajnullj&label=involvment%20by%20jnullj"
+    # PR badges (open / merged / reviewed / involvement) — encode queries for shields.io
+    q_open="repo:${repo_path} is:open is:pr author:jnullj"
+    q_merged="repo:${repo_path} is:pr author:jnullj is:merged"
+    q_reviewed="repo:${repo_path} is:pr reviewed-by:jnullj -author:jnullj"
+    q_invol="repo:${repo_path} involves:jnullj"
+
+    enc_open=$(jq -nr --arg q "$q_open" '$q|@uri')
+    enc_merged=$(jq -nr --arg q "$q_merged" '$q|@uri')
+    enc_reviewed=$(jq -nr --arg q "$q_reviewed" '$q|@uri')
+    enc_invol=$(jq -nr --arg q "$q_invol" '$q|@uri')
+
+    # Encode labels as well
+    label_open="open pr by jnullj"
+    label_merged="merged pr by jnullj"
+    label_reviewed="pr reviewed by jnullj"
+    label_involv="involvment by jnullj"
+
+    enc_label_open=$(jq -nr --arg l "$label_open" '$l|@uri')
+    enc_label_merged=$(jq -nr --arg l "$label_merged" '$l|@uri')
+    enc_label_reviewed=$(jq -nr --arg l "$label_reviewed" '$l|@uri')
+    enc_label_involv=$(jq -nr --arg l "$label_involv" '$l|@uri')
+
+    open_pr="https://img.shields.io/github/issues-search?query=${enc_open}&label=${enc_label_open}&color=green"
+    merged_pr="https://img.shields.io/github/issues-search?query=${enc_merged}&label=${enc_label_merged}&color=purple"
+    reviewed_pr="https://img.shields.io/github/issues-search?query=${enc_reviewed}&label=${enc_label_reviewed}"
+    involvement="https://img.shields.io/github/issues-search?query=${enc_invol}&label=${enc_label_involv}"
+
     pr_cell="<img alt=\"open pr by jnullj\" src=\"${open_pr}\" /><img alt=\"merged pr by jnullj\" src=\"${merged_pr}\" /><img alt=\"pr reviewed by jnullj\" src=\"${reviewed_pr}\" /><img alt=\"involvment by jnullj\" src=\"${involvement}\" />"
   fi
 
