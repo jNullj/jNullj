@@ -54,7 +54,7 @@
     { "name": "mcomix3", "url": "https://github.com/multiSnow/mcomix3", "role": "Contributor" },
     { "name": "Wake-On-Lan-Python", "url": "https://github.com/bentasker/Wake-On-Lan-Python", "role": "Contributor" },
     { "name": "org.kde.video", "url": "https://github.com/halverneus/org.kde.video", "role": "Contributor" },
-    { "name": "node-ssdp", "url": "https://github.com/song940/node-ssdp", "role": "Contributor" },
-    { "name": "node-yeelight", "url": "https://github.com/song940/node-yeelight", "role": "Contributor" }
+    { "name": "node-ssdp", "url": "https://github.com/lsongdev/node-ssdp", "role": "Contributor" },
+    { "name": "node-yeelight", "url": "https://github.com/lsongdev/node-yeelight", "role": "Contributor" }
   ]
 }
