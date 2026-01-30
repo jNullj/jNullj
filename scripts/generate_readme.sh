@@ -14,6 +14,12 @@ hack_md=""
 if [[ -f "$INTRO_FILE" ]]; then
   intro_md=$(sed 's/^/\n/' "$INTRO_FILE")
 fi
+
+# Helper: given (user, repo) print full GitHub repo URL
+full_repo_url() {
+  local user="$1" repo="$2"
+  printf 'https://github.com/%s/%s' "$user" "$repo"
+}
 if [[ -f "$HACK_FILE" ]]; then
   hack_md=$(sed 's/^/\n- /' "$HACK_FILE")
 fi
@@ -36,17 +42,18 @@ cat >> "$OUT_FILE" <<README
 README
 
 # personal projects
-jq -r '.personal[] | "\(.name)\u0001\(.url)\u0001\(.description)\u0001\(.role)"' "$DATA_FILE" | \
-while IFS=$'\u0001' read -r name url desc role; do
-  repo_path=$(echo "$url" | sed -E 's#https?://github.com/##' | sed 's#/$##')
+jq -r '.personal[] | [ .name, .user, .repo, (.description // ""), (.role // "") ] | join("\u0001")' "$DATA_FILE" | \
+while IFS=$'\u0001' read -r name user repo desc role; do
+  repo_path="${user}/${repo}"
+  full_url="$(full_repo_url "$user" "$repo")"
   stars_badge="https://img.shields.io/github/stars/${repo_path}"
   cat >> "$OUT_FILE" <<ROW
-		<tr>
-			<th span="row"><a href="$url">$name</a></th>
-			<td>$desc</td>
-			<td>$role</td>
-			<td><img alt="Stars: $name" src="$stars_badge" /></td>
-		</tr>
+			<tr>
+				<th span="row"><a href="$full_url">$name</a></th>
+				<td>$desc</td>
+				<td>$role</td>
+				<td><img alt="Stars: $name" src="$stars_badge" /></td>
+			</tr>
 ROW
 done
 
@@ -66,9 +73,10 @@ cat >> "$OUT_FILE" <<README
 README
 
 # contributions
-jq -r '.contributions[] | "\(.name)\u0001\(.url)\u0001\(.role)\u0001\(.pr_html // "")"' "$DATA_FILE" | \
-while IFS=$'\u0001' read -r name url role pr_html; do
-  repo_path=$(echo "$url" | sed -E 's#https?://github.com/##' | sed 's#/$##')
+jq -r '.contributions[] | [ .name, .user, .repo, (.role // ""), (.pr_html // "") ] | join("\u0001")' "$DATA_FILE" | \
+while IFS=$'\u0001' read -r name user repo role pr_html; do
+  repo_path="${user}/${repo}"
+  full_url="$(full_repo_url "$user" "$repo")"
   commits_badge="https://img.shields.io/github/commit-activity/t/${repo_path}?authorFilter=jnullj"
 
   if [[ -n "$pr_html" ]]; then
@@ -106,7 +114,7 @@ while IFS=$'\u0001' read -r name url role pr_html; do
 
   cat >> "$OUT_FILE" <<ROW
 		<tr>
-			<th span="row"><a href="$url">$name</a></th>
+      <th span="row"><a href="$full_url">$name</a></th>
 			<td>
 				$pr_cell
 			</td>
